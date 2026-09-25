@@ -1,0 +1,6 @@
+{"records": [{"tenure": 1, "MonthlyCharges": 29.85, "TotalCharges": 29.85, "SeniorCitizen": 0,
+ "gender": "Female", "Partner": "Yes", "Dependents": "No", "PhoneService": "No",
+ "MultipleLines": "No phone service", "InternetService": "DSL", "OnlineSecurity": "No",
+ "OnlineBackup": "Yes", "DeviceProtection": "No", "TechSupport": "No", "StreamingTV": "No",
+ "StreamingMovies": "No", "Contract": "Month-to-month", "PaperlessBilling": "Yes",
+ "PaymentMethod": "Electronic check"}]}

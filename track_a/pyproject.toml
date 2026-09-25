@@ -1,0 +1,19 @@
+[project]
+name = "telco-churn-mlops"
+version = "0.1.0"
+description = "Track A: Telco churn MLOps with MLflow, Evidently, FastAPI"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "matplotlib",
+    "mlflow>=2.14,<3",
+    "evidently>=0.7",
+    "fastapi",
+    "uvicorn",
+    "httpx",
+    "tabulate",
+    "sqlalchemy>=2.0,<2.1",
+]
